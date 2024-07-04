@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jonathan Dahlin 💪
 
-Sou Dev, estudante de Engenharia da computação pela UTFPR.
+Sou Dev, estudante de Engenharia da computação pela UTFPR.<br>
 Aqui eu aplico meu novos conhecimentos, atividades, projetos etc.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dahlinxd)
